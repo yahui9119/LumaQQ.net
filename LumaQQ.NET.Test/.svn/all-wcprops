@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/LumaQQ_NET/!svn/ver/8/trunk/src/LumaQQ.NET.Test
+END
+ByteBufferTest.cs
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/LumaQQ_NET/!svn/ver/8/trunk/src/LumaQQ.NET.Test/ByteBufferTest.cs
+END
+LumaQQ.NET.Test.csproj
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/LumaQQ_NET/!svn/ver/8/trunk/src/LumaQQ.NET.Test/LumaQQ.NET.Test.csproj
+END
+OutPacketsTest.cs
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/LumaQQ_NET/!svn/ver/8/trunk/src/LumaQQ.NET.Test/OutPacketsTest.cs
+END
+CrypterTest.cs
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/LumaQQ_NET/!svn/ver/8/trunk/src/LumaQQ.NET.Test/CrypterTest.cs
+END

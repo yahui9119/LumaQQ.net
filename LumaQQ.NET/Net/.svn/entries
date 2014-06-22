@@ -1,0 +1,82 @@
+8
+
+dir
+15
+http://svn.cnblogs.com:8080/svn/LumaQQ_NET/trunk/src/LumaQQ.NET/Net
+http://svn.cnblogs.com:8080/svn/LumaQQ_NET
+
+
+
+2008-03-16T08:59:39.120619Z
+13
+hjf1223
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+c3052a7c-21b1-fb48-b74e-e729558ad557
+
+ConnectionPolicy.cs
+file
+
+
+
+
+2008-03-16T11:55:54.000000Z
+16c70dbe791de82d095060a47f8a4c05
+2008-03-16T08:59:39.120619Z
+13
+hjf1223
+
+IConnectionPool.cs
+file
+
+
+
+
+2008-03-16T11:55:54.000000Z
+5ab725ee1ae9ed13799e78437b7407ab
+2008-03-16T08:59:39.120619Z
+13
+hjf1223
+
+ProxySocket
+dir
+
+QQPort.cs
+file
+
+
+
+
+2008-03-16T11:55:54.000000Z
+9e139dd79f7c95afdeb18ee300194184
+2008-03-16T08:59:39.120619Z
+13
+hjf1223
+
+Sockets
+dir
+
+IConnection.cs
+file
+
+
+
+
+2008-03-16T11:55:54.000000Z
+3c5e8415e5332008e8442a689735d970
+2008-03-16T08:59:39.120619Z
+13
+hjf1223
+

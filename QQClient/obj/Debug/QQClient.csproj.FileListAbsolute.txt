@@ -1,0 +1,8 @@
+I:\Projects\LumaQQ\QQClient\bin\Debug\QQClient.cs.exe
+I:\Projects\LumaQQ\QQClient\bin\Debug\QQClient.cs.pdb
+I:\Projects\LumaQQ\QQClient\bin\Debug\LumaQQ.NET.dll
+I:\Projects\LumaQQ\QQClient\bin\Debug\LumaQQ.NET.pdb
+I:\Projects\LumaQQ\QQClient\bin\Debug\LumaQQ.NET.xml
+I:\Projects\LumaQQ\QQClient\obj\Debug\QQClient.csprojResolveAssemblyReference.cache
+I:\Projects\LumaQQ\QQClient\obj\Debug\QQClient.cs.exe
+I:\Projects\LumaQQ\QQClient\obj\Debug\QQClient.cs.pdb

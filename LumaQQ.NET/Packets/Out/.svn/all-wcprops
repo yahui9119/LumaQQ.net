@@ -1,0 +1,371 @@
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/LumaQQ_NET/!svn/ver/13/trunk/src/LumaQQ.NET/Packets/Out
+END
+ClusterModifyCardPacket.cs
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/LumaQQ_NET/!svn/ver/13/trunk/src/LumaQQ.NET/Packets/Out/ClusterModifyCardPacket.cs
+END
+ClusterGetTempInfoPacket.cs
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/LumaQQ_NET/!svn/ver/13/trunk/src/LumaQQ.NET/Packets/Out/ClusterGetTempInfoPacket.cs
+END
+ClusterGetMemberInfoPacket.cs
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/LumaQQ_NET/!svn/ver/13/trunk/src/LumaQQ.NET/Packets/Out/ClusterGetMemberInfoPacket.cs
+END
+GroupDataOpPacket.cs
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/LumaQQ_NET/!svn/ver/13/trunk/src/LumaQQ.NET/Packets/Out/GroupDataOpPacket.cs
+END
+ClusterActivateTempPacket.cs
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/LumaQQ_NET/!svn/ver/13/trunk/src/LumaQQ.NET/Packets/Out/ClusterActivateTempPacket.cs
+END
+ChangeStatusPacket.cs
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/LumaQQ_NET/!svn/ver/13/trunk/src/LumaQQ.NET/Packets/Out/ChangeStatusPacket.cs
+END
+AdvancedSearchUserPacket.cs
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/LumaQQ_NET/!svn/ver/13/trunk/src/LumaQQ.NET/Packets/Out/AdvancedSearchUserPacket.cs
+END
+ClusterModifyTempInfoPacket.cs
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/LumaQQ_NET/!svn/ver/13/trunk/src/LumaQQ.NET/Packets/Out/ClusterModifyTempInfoPacket.cs
+END
+ClusterSubClusterOpPacket.cs
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/LumaQQ_NET/!svn/ver/13/trunk/src/LumaQQ.NET/Packets/Out/ClusterSubClusterOpPacket.cs
+END
+ClusterGetInfoPacket.cs
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/LumaQQ_NET/!svn/ver/13/trunk/src/LumaQQ.NET/Packets/Out/ClusterGetInfoPacket.cs
+END
+WeatherOpPacket.cs
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/LumaQQ_NET/!svn/ver/13/trunk/src/LumaQQ.NET/Packets/Out/WeatherOpPacket.cs
+END
+SignatureOpPacket.cs
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/LumaQQ_NET/!svn/ver/13/trunk/src/LumaQQ.NET/Packets/Out/SignatureOpPacket.cs
+END
+ClusterJoinPacket.cs
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/LumaQQ_NET/!svn/ver/13/trunk/src/LumaQQ.NET/Packets/Out/ClusterJoinPacket.cs
+END
+ClusterActivatePacket.cs
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/LumaQQ_NET/!svn/ver/13/trunk/src/LumaQQ.NET/Packets/Out/ClusterActivatePacket.cs
+END
+ClusterAuthPacket.cs
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/LumaQQ_NET/!svn/ver/13/trunk/src/LumaQQ.NET/Packets/Out/ClusterAuthPacket.cs
+END
+ClusterModifyInfoPacket.cs
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/LumaQQ_NET/!svn/ver/13/trunk/src/LumaQQ.NET/Packets/Out/ClusterModifyInfoPacket.cs
+END
+KeepAlivePacket.cs
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/LumaQQ_NET/!svn/ver/13/trunk/src/LumaQQ.NET/Packets/Out/KeepAlivePacket.cs
+END
+ClusterSearchPacket.cs
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/LumaQQ_NET/!svn/ver/13/trunk/src/LumaQQ.NET/Packets/Out/ClusterSearchPacket.cs
+END
+ClusterModifyTempMemberPacket.cs
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/LumaQQ_NET/!svn/ver/13/trunk/src/LumaQQ.NET/Packets/Out/ClusterModifyTempMemberPacket.cs
+END
+LoginPacket.cs
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/LumaQQ_NET/!svn/ver/13/trunk/src/LumaQQ.NET/Packets/Out/LoginPacket.cs
+END
+SendSMSPacket.cs
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/LumaQQ_NET/!svn/ver/13/trunk/src/LumaQQ.NET/Packets/Out/SendSMSPacket.cs
+END
+ClusterGetCardBatchPacket.cs
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/LumaQQ_NET/!svn/ver/13/trunk/src/LumaQQ.NET/Packets/Out/ClusterGetCardBatchPacket.cs
+END
+AddFriendExPacket.cs
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/LumaQQ_NET/!svn/ver/13/trunk/src/LumaQQ.NET/Packets/Out/AddFriendExPacket.cs
+END
+ClusterDismissPacket.cs
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/LumaQQ_NET/!svn/ver/13/trunk/src/LumaQQ.NET/Packets/Out/ClusterDismissPacket.cs
+END
+SendIMPacket.cs
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/LumaQQ_NET/!svn/ver/13/trunk/src/LumaQQ.NET/Packets/Out/SendIMPacket.cs
+END
+ClusterModifyMemberPacket.cs
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/LumaQQ_NET/!svn/ver/13/trunk/src/LumaQQ.NET/Packets/Out/ClusterModifyMemberPacket.cs
+END
+AddFriendAuthResponsePacket.cs
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/LumaQQ_NET/!svn/ver/13/trunk/src/LumaQQ.NET/Packets/Out/AddFriendAuthResponsePacket.cs
+END
+GetOnlineOpPacket.cs
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/LumaQQ_NET/!svn/ver/13/trunk/src/LumaQQ.NET/Packets/Out/GetOnlineOpPacket.cs
+END
+ReceiveIMReplyPacket.cs
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/LumaQQ_NET/!svn/ver/13/trunk/src/LumaQQ.NET/Packets/Out/ReceiveIMReplyPacket.cs
+END
+UnknownOutPacket.cs
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/LumaQQ_NET/!svn/ver/13/trunk/src/LumaQQ.NET/Packets/Out/UnknownOutPacket.cs
+END
+UploadGroupFriendPacket.cs
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/LumaQQ_NET/!svn/ver/13/trunk/src/LumaQQ.NET/Packets/Out/UploadGroupFriendPacket.cs
+END
+DeleteFriendPacket.cs
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/LumaQQ_NET/!svn/ver/13/trunk/src/LumaQQ.NET/Packets/Out/DeleteFriendPacket.cs
+END
+GetUserInfoPacket.cs
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/LumaQQ_NET/!svn/ver/13/trunk/src/LumaQQ.NET/Packets/Out/GetUserInfoPacket.cs
+END
+ClusterCreateTempPacket.cs
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/LumaQQ_NET/!svn/ver/13/trunk/src/LumaQQ.NET/Packets/Out/ClusterCreateTempPacket.cs
+END
+FriendLevelOpPacket.cs
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/LumaQQ_NET/!svn/ver/13/trunk/src/LumaQQ.NET/Packets/Out/FriendLevelOpPacket.cs
+END
+FriendDataOpPacket.cs
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/LumaQQ_NET/!svn/ver/13/trunk/src/LumaQQ.NET/Packets/Out/FriendDataOpPacket.cs
+END
+ClusterExitTempPacket.cs
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/LumaQQ_NET/!svn/ver/13/trunk/src/LumaQQ.NET/Packets/Out/ClusterExitTempPacket.cs
+END
+RequestKeyPacket.cs
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/LumaQQ_NET/!svn/ver/13/trunk/src/LumaQQ.NET/Packets/Out/RequestKeyPacket.cs
+END
+GetFriendListPacket.cs
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/LumaQQ_NET/!svn/ver/13/trunk/src/LumaQQ.NET/Packets/Out/GetFriendListPacket.cs
+END
+ModifyInfoPacket.cs
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/LumaQQ_NET/!svn/ver/13/trunk/src/LumaQQ.NET/Packets/Out/ModifyInfoPacket.cs
+END
+SearchUserPacket.cs
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/LumaQQ_NET/!svn/ver/13/trunk/src/LumaQQ.NET/Packets/Out/SearchUserPacket.cs
+END
+ClusterCreatePacket.cs
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/LumaQQ_NET/!svn/ver/13/trunk/src/LumaQQ.NET/Packets/Out/ClusterCreatePacket.cs
+END
+PrivacyDataOpPacket.cs
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/LumaQQ_NET/!svn/ver/13/trunk/src/LumaQQ.NET/Packets/Out/PrivacyDataOpPacket.cs
+END
+ClusterSendTempIMPacket.cs
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/LumaQQ_NET/!svn/ver/13/trunk/src/LumaQQ.NET/Packets/Out/ClusterSendTempIMPacket.cs
+END
+ClusterCommitMemberOrganizationPacket.cs
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/LumaQQ_NET/!svn/ver/13/trunk/src/LumaQQ.NET/Packets/Out/ClusterCommitMemberOrganizationPacket.cs
+END
+RemoveSelfPacket.cs
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/LumaQQ_NET/!svn/ver/13/trunk/src/LumaQQ.NET/Packets/Out/RemoveSelfPacket.cs
+END
+ClusterTransferRolePacket.cs
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/LumaQQ_NET/!svn/ver/13/trunk/src/LumaQQ.NET/Packets/Out/ClusterTransferRolePacket.cs
+END
+TempSessionOpPacket.cs
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/LumaQQ_NET/!svn/ver/13/trunk/src/LumaQQ.NET/Packets/Out/TempSessionOpPacket.cs
+END
+ClusterUpdateOrganizationPacket.cs
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/LumaQQ_NET/!svn/ver/13/trunk/src/LumaQQ.NET/Packets/Out/ClusterUpdateOrganizationPacket.cs
+END
+LogoutPacket.cs
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/LumaQQ_NET/!svn/ver/13/trunk/src/LumaQQ.NET/Packets/Out/LogoutPacket.cs
+END
+AuthorizePacket.cs
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/LumaQQ_NET/!svn/ver/13/trunk/src/LumaQQ.NET/Packets/Out/AuthorizePacket.cs
+END
+ClusterGetCardPacket.cs
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/LumaQQ_NET/!svn/ver/13/trunk/src/LumaQQ.NET/Packets/Out/ClusterGetCardPacket.cs
+END
+ClusterExitPacket.cs
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/LumaQQ_NET/!svn/ver/13/trunk/src/LumaQQ.NET/Packets/Out/ClusterExitPacket.cs
+END
+DownloadGroupFriendPacket.cs
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/LumaQQ_NET/!svn/ver/13/trunk/src/LumaQQ.NET/Packets/Out/DownloadGroupFriendPacket.cs
+END
+ClusterSendIMExPacket.cs
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/LumaQQ_NET/!svn/ver/13/trunk/src/LumaQQ.NET/Packets/Out/ClusterSendIMExPacket.cs
+END
+ClusterGetOnlineMemberPacket.cs
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/LumaQQ_NET/!svn/ver/13/trunk/src/LumaQQ.NET/Packets/Out/ClusterGetOnlineMemberPacket.cs
+END
+ClusterCommitOrganizationPacket.cs
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/LumaQQ_NET/!svn/ver/13/trunk/src/LumaQQ.NET/Packets/Out/ClusterCommitOrganizationPacket.cs
+END
+ClusterSetRolePacket.cs
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/LumaQQ_NET/!svn/ver/13/trunk/src/LumaQQ.NET/Packets/Out/ClusterSetRolePacket.cs
+END
+ClusterCommandPacket.cs
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/LumaQQ_NET/!svn/ver/13/trunk/src/LumaQQ.NET/Packets/Out/ClusterCommandPacket.cs
+END
+RequestLoginTokenPacket.cs
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/LumaQQ_NET/!svn/ver/13/trunk/src/LumaQQ.NET/Packets/Out/RequestLoginTokenPacket.cs
+END
+UserPropertyOpPacket.cs
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/LumaQQ_NET/!svn/ver/13/trunk/src/LumaQQ.NET/Packets/Out/UserPropertyOpPacket.cs
+END

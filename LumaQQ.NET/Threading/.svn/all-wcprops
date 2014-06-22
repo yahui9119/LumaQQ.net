@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/LumaQQ_NET/!svn/ver/13/trunk/src/LumaQQ.NET/Threading
+END
+ThreadExcutor.cs
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/LumaQQ_NET/!svn/ver/13/trunk/src/LumaQQ.NET/Threading/ThreadExcutor.cs
+END
+ResendTrigger.cs
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/LumaQQ_NET/!svn/ver/13/trunk/src/LumaQQ.NET/Threading/ResendTrigger.cs
+END
+PacketIncomeTrigger.cs
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/LumaQQ_NET/!svn/ver/13/trunk/src/LumaQQ.NET/Threading/PacketIncomeTrigger.cs
+END
+ICallable.cs
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/LumaQQ_NET/!svn/ver/13/trunk/src/LumaQQ.NET/Threading/ICallable.cs
+END
+KeepAliveTrigger.cs
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/LumaQQ_NET/!svn/ver/13/trunk/src/LumaQQ.NET/Threading/KeepAliveTrigger.cs
+END

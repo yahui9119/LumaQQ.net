@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/LumaQQ_NET/!svn/ver/13/trunk/src/LumaQQ.NET/Events
+END
+ProcessorRouter.cs
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/LumaQQ_NET/!svn/ver/13/trunk/src/LumaQQ.NET/Events/ProcessorRouter.cs
+END
+BasicFamilyProcessor.cs
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/LumaQQ_NET/!svn/ver/13/trunk/src/LumaQQ.NET/Events/BasicFamilyProcessor.cs
+END
+IPacketListener.cs
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/LumaQQ_NET/!svn/ver/13/trunk/src/LumaQQ.NET/Events/IPacketListener.cs
+END
+QQEvents.cs
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/LumaQQ_NET/!svn/ver/13/trunk/src/LumaQQ.NET/Events/QQEvents.cs
+END
+ErrorEventArgs.cs
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/LumaQQ_NET/!svn/ver/13/trunk/src/LumaQQ.NET/Events/ErrorEventArgs.cs
+END

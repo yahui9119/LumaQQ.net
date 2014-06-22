@@ -1,0 +1,40 @@
+8
+
+dir
+15
+http://svn.cnblogs.com:8080/svn/LumaQQ_NET/trunk/src/LumaQQ.NET/Properties
+http://svn.cnblogs.com:8080/svn/LumaQQ_NET
+
+
+
+2008-03-16T11:44:31.905875Z
+15
+hjf1223
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+c3052a7c-21b1-fb48-b74e-e729558ad557
+
+AssemblyInfo.cs
+file
+
+
+
+
+2008-03-16T11:56:00.000000Z
+a7fdda8d9e6f788759b1f81b001e7a7d
+2008-03-16T11:44:31.905875Z
+15
+hjf1223
+

@@ -1,0 +1,79 @@
+8
+
+dir
+15
+http://svn.cnblogs.com:8080/svn/LumaQQ_NET/trunk/src/LumaQQ.NET.Test
+http://svn.cnblogs.com:8080/svn/LumaQQ_NET
+
+
+
+2008-03-14T15:08:51.235999Z
+8
+hjf1223
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+c3052a7c-21b1-fb48-b74e-e729558ad557
+
+ByteBufferTest.cs
+file
+
+
+
+
+2008-03-14T15:17:52.000000Z
+bc7a1fbe4e3aa5334100f90761d23589
+2008-03-14T15:08:51.235999Z
+8
+hjf1223
+
+LumaQQ.NET.Test.csproj
+file
+
+
+
+
+2008-03-14T15:17:52.000000Z
+710b44ee191d38d87e493b40da149be0
+2008-03-14T15:08:51.235999Z
+8
+hjf1223
+
+OutPacketsTest.cs
+file
+
+
+
+
+2008-03-14T15:17:52.000000Z
+1a11cdbbde39ecd1a6de94ea25cbcd44
+2008-03-14T15:08:51.235999Z
+8
+hjf1223
+
+Properties
+dir
+
+CrypterTest.cs
+file
+
+
+
+
+2008-03-14T15:17:52.000000Z
+d7072b8b51a5519274a1d9324917f76e
+2008-03-14T15:08:51.235999Z
+8
+hjf1223
+

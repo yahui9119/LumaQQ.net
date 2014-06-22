@@ -1,0 +1,6 @@
+I:\Projects\LumaQQ\LumaQQ.NET\bin\Debug\LumaQQ.NET.dll
+I:\Projects\LumaQQ\LumaQQ.NET\bin\Debug\LumaQQ.NET.pdb
+I:\Projects\LumaQQ\LumaQQ.NET\bin\Debug\LumaQQ.NET.XML
+I:\Projects\LumaQQ\LumaQQ.NET\obj\Debug\LumaQQ.NET.csprojResolveAssemblyReference.cache
+I:\Projects\LumaQQ\LumaQQ.NET\obj\Debug\LumaQQ.NET.dll
+I:\Projects\LumaQQ\LumaQQ.NET\obj\Debug\LumaQQ.NET.pdb

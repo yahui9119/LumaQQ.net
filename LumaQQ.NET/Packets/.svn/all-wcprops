@@ -1,0 +1,77 @@
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/LumaQQ_NET/!svn/ver/13/trunk/src/LumaQQ.NET/Packets
+END
+InPacket.cs
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/LumaQQ_NET/!svn/ver/13/trunk/src/LumaQQ.NET/Packets/InPacket.cs
+END
+OutPacket.cs
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/LumaQQ_NET/!svn/ver/13/trunk/src/LumaQQ.NET/Packets/OutPacket.cs
+END
+BasicFamilyParser.cs
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/LumaQQ_NET/!svn/ver/13/trunk/src/LumaQQ.NET/Packets/BasicFamilyParser.cs
+END
+BasicInPacket.cs
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/LumaQQ_NET/!svn/ver/13/trunk/src/LumaQQ.NET/Packets/BasicInPacket.cs
+END
+BasicOutPacket.cs
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/LumaQQ_NET/!svn/ver/13/trunk/src/LumaQQ.NET/Packets/BasicOutPacket.cs
+END
+ErrorPacket.cs
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/LumaQQ_NET/!svn/ver/13/trunk/src/LumaQQ.NET/Packets/ErrorPacket.cs
+END
+PacketParseException.cs
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/LumaQQ_NET/!svn/ver/13/trunk/src/LumaQQ.NET/Packets/PacketParseException.cs
+END
+_05InPacket.cs
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/LumaQQ_NET/!svn/ver/13/trunk/src/LumaQQ.NET/Packets/_05InPacket.cs
+END
+IParser.cs
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/LumaQQ_NET/!svn/ver/13/trunk/src/LumaQQ.NET/Packets/IParser.cs
+END
+Packet.cs
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/LumaQQ_NET/!svn/ver/13/trunk/src/LumaQQ.NET/Packets/Packet.cs
+END
+PacketHelper.cs
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/LumaQQ_NET/!svn/ver/13/trunk/src/LumaQQ.NET/Packets/PacketHelper.cs
+END
+PacketHistory.cs
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/LumaQQ_NET/!svn/ver/13/trunk/src/LumaQQ.NET/Packets/PacketHistory.cs
+END

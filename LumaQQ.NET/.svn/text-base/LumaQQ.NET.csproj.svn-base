@@ -1,0 +1,237 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="3.5" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProductVersion>9.0.21022</ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{4710DD68-E9E8-4928-BDB0-92C3A8E6C0B4}</ProjectGuid>
+    <OutputType>Library</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>LumaQQ.NET</RootNamespace>
+    <AssemblyName>LumaQQ.NET</AssemblyName>
+    <TargetFrameworkVersion>v2.0</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <DocumentationFile>bin\Release\LumaQQ.NET.XML</DocumentationFile>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Messaging" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="ConnectionManager.cs" />
+    <Compile Include="Entities\AdvancedUserInfo.cs" />
+    <Compile Include="Entities\Card.cs" />
+    <Compile Include="Entities\CardStub.cs" />
+    <Compile Include="Entities\ClusterIM.cs" />
+    <Compile Include="Entities\ClusterInfo.cs" />
+    <Compile Include="Entities\ContactInfo.cs" />
+    <Compile Include="Entities\CustomHead.cs" />
+    <Compile Include="Entities\DownloadFriendEntry.cs" />
+    <Compile Include="Entities\FileTransferArgs.cs" />
+    <Compile Include="Entities\FontStyle.cs" />
+    <Compile Include="Entities\FriendLevel.cs" />
+    <Compile Include="Entities\FriendOnlineEntry.cs" />
+    <Compile Include="Entities\FriendRemark.cs" />
+    <Compile Include="Entities\FriendStatus.cs" />
+    <Compile Include="Entities\Member.cs" />
+    <Compile Include="Entities\NormalIM.cs" />
+    <Compile Include="Entities\NormalIMHeader.cs" />
+    <Compile Include="Entities\QQFriend.cs" />
+    <Compile Include="Entities\QQLive.cs" />
+    <Compile Include="Entities\QQOrganization.cs" />
+    <Compile Include="Entities\ReceiveIMHeader.cs" />
+    <Compile Include="Entities\Signature.cs" />
+    <Compile Include="Entities\SimpleClusterInfo.cs" />
+    <Compile Include="Entities\SMS.cs" />
+    <Compile Include="Entities\SMSReply.cs" />
+    <Compile Include="Entities\TempSessionIM.cs" />
+    <Compile Include="Entities\UserInfo.cs" />
+    <Compile Include="Entities\UserProperty.cs" />
+    <Compile Include="Entities\UserPropertyChange.cs" />
+    <Compile Include="Entities\Weather.cs" />
+    <Compile Include="Events\BasicFamilyProcessor.cs" />
+    <Compile Include="Events\ErrorEventArgs.cs" />
+    <Compile Include="Events\QQEvents.cs" />
+    <Compile Include="FriendInfo.cs" />
+    <Compile Include="FriendManager.cs" />
+    <Compile Include="LoginManager.cs" />
+    <Compile Include="MessageManager.cs" />
+    <Compile Include="Net\ConnectionPolicy.cs" />
+    <Compile Include="Net\IConnection.cs" />
+    <Compile Include="Net\IConnectionPool.cs" />
+    <Compile Include="Net\ProxySocket\AuthMethod.cs" />
+    <Compile Include="Net\ProxySocket\AuthNone.cs" />
+    <Compile Include="Net\ProxySocket\AuthUserPass.cs" />
+    <Compile Include="Net\ProxySocket\IAsyncProxyResult.cs" />
+    <Compile Include="Net\ProxySocket\ProxyException.cs" />
+    <Compile Include="Net\ProxySocket\ProxySocket.cs" />
+    <Compile Include="Net\ProxySocket\Socks4Handler.cs" />
+    <Compile Include="Net\ProxySocket\Socks5Handler.cs" />
+    <Compile Include="Net\ProxySocket\SocksHandler.cs" />
+    <Compile Include="Net\QQPort.cs" />
+    <Compile Include="Net\Sockets\ConnectionPool.cs" />
+    <Compile Include="Net\Sockets\ProxyTCPConnection.cs" />
+    <Compile Include="Net\Sockets\ProxyUDPConnection.cs" />
+    <Compile Include="Net\Sockets\SocketConnection.cs" />
+    <Compile Include="Net\Sockets\UDPConnection.cs" />
+    <Compile Include="PacketManager.cs" />
+    <Compile Include="Packets\BasicFamilyParser.cs" />
+    <Compile Include="Packets\BasicInPacket.cs" />
+    <Compile Include="Packets\BasicOutPacket.cs" />
+    <Compile Include="Packets\In\05\RequestAgentReplyPacket.cs" />
+    <Compile Include="Packets\In\DownloadGroupFriendReplyPacket.cs" />
+    <Compile Include="Packets\ErrorPacket.cs" />
+    <Compile Include="Packets\InPacket.cs" />
+    <Compile Include="Packets\In\AddFriendAuthResponseReplyPacket.cs" />
+    <Compile Include="Packets\In\AdvancedSearchUserReplyPacket.cs" />
+    <Compile Include="Packets\In\AuthorizeReplyPacket.cs" />
+    <Compile Include="Packets\In\ChangeStatusReplyPacket.cs" />
+    <Compile Include="Packets\In\ClusterCommandReplyPacket.cs" />
+    <Compile Include="Packets\In\DeleteFriendReplyPacket.cs" />
+    <Compile Include="Entities\FileInfo.cs" />
+    <Compile Include="Packets\In\FriendChangeStatusPacket.cs" />
+    <Compile Include="Packets\In\FriendDataOpReplyPacket.cs" />
+    <Compile Include="Packets\In\FriendLevelOpReplyPacket.cs" />
+    <Compile Include="Packets\In\GetFriendListReplyPacket.cs" />
+    <Compile Include="Packets\In\GetOnlineOpReplyPacket.cs" />
+    <Compile Include="Packets\In\GetTempClusterOnlineMemberReplyPacket.cs" />
+    <Compile Include="Packets\In\GetUserInfoReplyPacket.cs" />
+    <Compile Include="Packets\In\GroupDataOpReplyPacket.cs" />
+    <Compile Include="Packets\In\KeepAliveReplyPacket.cs" />
+    <Compile Include="Packets\In\LoginReplyPacket.cs" />
+    <Compile Include="Packets\In\ModifyInfoReplyPacket.cs" />
+    <Compile Include="Packets\In\PrivacyDataOpReplyPacket.cs" />
+    <Compile Include="Packets\In\ReceiveIMPacket.cs" />
+    <Compile Include="Packets\In\RemoveSelfReplyPacket.cs" />
+    <Compile Include="Packets\In\RequestKeyReplyPacket.cs" />
+    <Compile Include="Packets\In\RequestLoginTokenReplyPacket.cs" />
+    <Compile Include="Packets\In\SearchUserReplyPacket.cs" />
+    <Compile Include="Packets\In\SendIMReplyPacket.cs" />
+    <Compile Include="Packets\In\SendSMSReplyPacket.cs" />
+    <Compile Include="Packets\In\SignatureOpReplyPacket.cs" />
+    <Compile Include="Packets\In\SystemNotificationPacket.cs" />
+    <Compile Include="Packets\In\TempSessionOpReplyPacket.cs" />
+    <Compile Include="Packets\In\UnknownInPacket.cs" />
+    <Compile Include="Packets\In\UploadGroupFriendReplyPacket.cs" />
+    <Compile Include="Packets\In\UserPropertyOpReplyPacket.cs" />
+    <Compile Include="Packets\In\WeatherOpReplyPacket.cs" />
+    <Compile Include="Packets\Out\AddFriendAuthResponsePacket.cs" />
+    <Compile Include="Packets\In\AddFriendExReplyPacket.cs" />
+    <Compile Include="Packets\OutPacket.cs" />
+    <Compile Include="Packets\Out\AddFriendExPacket.cs" />
+    <Compile Include="Packets\Out\AdvancedSearchUserPacket.cs" />
+    <Compile Include="Packets\Out\AuthorizePacket.cs" />
+    <Compile Include="Packets\Out\ChangeStatusPacket.cs" />
+    <Compile Include="Packets\Out\ClusterActivatePacket.cs" />
+    <Compile Include="Packets\Out\ClusterActivateTempPacket.cs" />
+    <Compile Include="Packets\Out\ClusterAuthPacket.cs" />
+    <Compile Include="Packets\Out\ClusterCommandPacket.cs" />
+    <Compile Include="Packets\Out\ClusterCommitMemberOrganizationPacket.cs" />
+    <Compile Include="Packets\Out\ClusterCommitOrganizationPacket.cs" />
+    <Compile Include="Packets\Out\ClusterCreatePacket.cs" />
+    <Compile Include="Packets\Out\ClusterCreateTempPacket.cs" />
+    <Compile Include="Packets\Out\ClusterDismissPacket.cs" />
+    <Compile Include="Packets\Out\ClusterExitPacket.cs" />
+    <Compile Include="Packets\Out\ClusterExitTempPacket.cs" />
+    <Compile Include="Packets\Out\ClusterGetCardBatchPacket.cs" />
+    <Compile Include="Packets\Out\ClusterGetCardPacket.cs" />
+    <Compile Include="Packets\Out\ClusterGetInfoPacket.cs" />
+    <Compile Include="Packets\Out\ClusterGetMemberInfoPacket.cs" />
+    <Compile Include="Packets\Out\ClusterGetOnlineMemberPacket.cs" />
+    <Compile Include="Packets\Out\ClusterGetTempInfoPacket.cs" />
+    <Compile Include="Packets\Out\ClusterJoinPacket.cs" />
+    <Compile Include="Packets\Out\ClusterModifyCardPacket.cs" />
+    <Compile Include="Packets\Out\ClusterModifyInfoPacket.cs" />
+    <Compile Include="Packets\Out\ClusterModifyMemberPacket.cs" />
+    <Compile Include="Packets\Out\ClusterModifyTempInfoPacket.cs" />
+    <Compile Include="Packets\Out\ClusterModifyTempMemberPacket.cs" />
+    <Compile Include="Packets\Out\ClusterSearchPacket.cs" />
+    <Compile Include="Packets\Out\ClusterSendIMExPacket.cs" />
+    <Compile Include="Packets\Out\ClusterSendTempIMPacket.cs" />
+    <Compile Include="Packets\Out\ClusterSetRolePacket.cs" />
+    <Compile Include="Packets\Out\ClusterSubClusterOpPacket.cs" />
+    <Compile Include="Packets\Out\ClusterTransferRolePacket.cs" />
+    <Compile Include="Packets\Out\ClusterUpdateOrganizationPacket.cs" />
+    <Compile Include="Packets\Out\DeleteFriendPacket.cs" />
+    <Compile Include="Packets\Out\DownloadGroupFriendPacket.cs" />
+    <Compile Include="Packets\Out\FriendDataOpPacket.cs" />
+    <Compile Include="Packets\Out\FriendLevelOpPacket.cs" />
+    <Compile Include="Packets\Out\GetFriendListPacket.cs" />
+    <Compile Include="Packets\Out\GetOnlineOpPacket.cs" />
+    <Compile Include="Packets\Out\GetUserInfoPacket.cs" />
+    <Compile Include="Packets\Out\GroupDataOpPacket.cs" />
+    <Compile Include="Packets\Out\KeepAlivePacket.cs" />
+    <Compile Include="Packets\Out\LoginPacket.cs" />
+    <Compile Include="Packets\Out\LogoutPacket.cs" />
+    <Compile Include="Packets\Out\ModifyInfoPacket.cs" />
+    <Compile Include="Packets\Out\PrivacyDataOpPacket.cs" />
+    <Compile Include="Packets\Out\ReceiveIMReplyPacket.cs" />
+    <Compile Include="Packets\Out\RemoveSelfPacket.cs" />
+    <Compile Include="Packets\Out\RequestKeyPacket.cs" />
+    <Compile Include="Packets\Out\RequestLoginTokenPacket.cs" />
+    <Compile Include="Packets\Out\SearchUserPacket.cs" />
+    <Compile Include="Packets\Out\SendIMPacket.cs" />
+    <Compile Include="Packets\Out\SendSMSPacket.cs" />
+    <Compile Include="Packets\Out\SignatureOpPacket.cs" />
+    <Compile Include="Packets\Out\TempSessionOpPacket.cs" />
+    <Compile Include="Packets\Out\UnknownOutPacket.cs" />
+    <Compile Include="Packets\Out\UploadGroupFriendPacket.cs" />
+    <Compile Include="Packets\Out\UserPropertyOpPacket.cs" />
+    <Compile Include="Packets\Out\WeatherOpPacket.cs" />
+    <Compile Include="Packets\PacketHelper.cs" />
+    <Compile Include="Packets\PacketHistory.cs" />
+    <Compile Include="Packets\PacketParseException.cs" />
+    <Compile Include="Packets\_05InPacket.cs" />
+    <Compile Include="PrivateManager.cs" />
+    <Compile Include="Proxy.cs" />
+    <Compile Include="QQClient.cs" />
+    <Compile Include="QQGlobal.cs" />
+    <Compile Include="QQUser.cs" />
+    <Compile Include="Events\IPacketListener.cs" />
+    <Compile Include="Events\ProcessorRouter.cs" />
+    <Compile Include="Threading\ICallable.cs" />
+    <Compile Include="Threading\KeepAliveTrigger.cs" />
+    <Compile Include="Threading\PacketIncomeTrigger.cs" />
+    <Compile Include="Threading\ResendTrigger.cs" />
+    <Compile Include="Threading\ThreadExcutor.cs" />
+    <Compile Include="Utils\ByteBuffer.cs" />
+    <Compile Include="Packets\IParser.cs" />
+    <Compile Include="Packets\Packet.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Utils\Crypter.cs" />
+    <Compile Include="Utils\DesignByContract.cs" />
+    <Compile Include="Utils\Util.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <Folder Include="Packets\Out\05\" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

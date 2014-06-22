@@ -1,0 +1,83 @@
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/LumaQQ_NET/!svn/ver/15/trunk/src/LumaQQ.NET
+END
+LumaQQ.NET.snk
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/LumaQQ_NET/!svn/ver/8/trunk/src/LumaQQ.NET/LumaQQ.NET.snk
+END
+MessageManager.cs
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/LumaQQ_NET/!svn/ver/13/trunk/src/LumaQQ.NET/MessageManager.cs
+END
+LumaQQ.NET.csproj
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/LumaQQ_NET/!svn/ver/13/trunk/src/LumaQQ.NET/LumaQQ.NET.csproj
+END
+QQClient.cs
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/LumaQQ_NET/!svn/ver/13/trunk/src/LumaQQ.NET/QQClient.cs
+END
+QQUser.cs
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/LumaQQ_NET/!svn/ver/13/trunk/src/LumaQQ.NET/QQUser.cs
+END
+Proxy.cs
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/LumaQQ_NET/!svn/ver/13/trunk/src/LumaQQ.NET/Proxy.cs
+END
+PacketManager.cs
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/LumaQQ_NET/!svn/ver/13/trunk/src/LumaQQ.NET/PacketManager.cs
+END
+FriendManager.cs
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/LumaQQ_NET/!svn/ver/13/trunk/src/LumaQQ.NET/FriendManager.cs
+END
+QQGlobal.cs
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/LumaQQ_NET/!svn/ver/13/trunk/src/LumaQQ.NET/QQGlobal.cs
+END
+FriendInfo.cs
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/LumaQQ_NET/!svn/ver/13/trunk/src/LumaQQ.NET/FriendInfo.cs
+END
+LoginManager.cs
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/LumaQQ_NET/!svn/ver/13/trunk/src/LumaQQ.NET/LoginManager.cs
+END
+PrivateManager.cs
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/LumaQQ_NET/!svn/ver/13/trunk/src/LumaQQ.NET/PrivateManager.cs
+END
+ConnectionManager.cs
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/LumaQQ_NET/!svn/ver/13/trunk/src/LumaQQ.NET/ConnectionManager.cs
+END

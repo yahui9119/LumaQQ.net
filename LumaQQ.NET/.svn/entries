@@ -1,0 +1,206 @@
+8
+
+dir
+15
+http://svn.cnblogs.com:8080/svn/LumaQQ_NET/trunk/src/LumaQQ.NET
+http://svn.cnblogs.com:8080/svn/LumaQQ_NET
+
+
+
+2008-03-16T11:44:31.905875Z
+15
+hjf1223
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+c3052a7c-21b1-fb48-b74e-e729558ad557
+
+LumaQQ.NET.snk
+file
+
+
+
+
+2008-03-14T15:18:18.000000Z
+bc7e92944bbd2e5b77d7dde5f77dc579
+2008-03-14T15:08:51.235999Z
+8
+hjf1223
+has-props
+
+MessageManager.cs
+file
+
+
+
+
+2008-03-16T11:56:00.000000Z
+5c0dfe1f2d3082300c327f1a188412ba
+2008-03-16T08:59:39.120619Z
+13
+hjf1223
+
+Entities
+dir
+
+LumaQQ.NET.csproj
+file
+
+
+
+
+2008-03-16T11:56:00.000000Z
+8fb83def1f099139ec69b9f857208f88
+2008-03-16T08:59:39.120619Z
+13
+hjf1223
+
+QQClient.cs
+file
+
+
+
+
+2008-03-16T11:56:00.000000Z
+f6777267ea20df1f19ff5ea7e23e374c
+2008-03-16T08:59:39.120619Z
+13
+hjf1223
+
+QQUser.cs
+file
+
+
+
+
+2008-03-16T11:56:00.000000Z
+fe476ee27b04b4ea41a2d5d73fb565ad
+2008-03-16T08:59:39.120619Z
+13
+hjf1223
+
+Proxy.cs
+file
+
+
+
+
+2008-03-16T11:56:00.000000Z
+89ef293d3db82ebc2da0963a71ffdab4
+2008-03-16T08:59:39.120619Z
+13
+hjf1223
+
+Net
+dir
+
+FriendInfo.cs
+file
+
+
+
+
+2008-03-16T11:56:00.000000Z
+9ad5e0e0c90d9738b96b7139c0747c79
+2008-03-16T08:59:39.120619Z
+13
+hjf1223
+
+Packets
+dir
+
+Properties
+dir
+
+ConnectionManager.cs
+file
+
+
+
+
+2008-03-16T11:56:00.000000Z
+eb579f0aeafa0ea709d7535758587ae2
+2008-03-16T08:59:39.120619Z
+13
+hjf1223
+
+Utils
+dir
+
+Events
+dir
+
+Threading
+dir
+
+PacketManager.cs
+file
+
+
+
+
+2008-03-16T11:56:00.000000Z
+b5438f67225c38f0722e01024afeac1a
+2008-03-16T08:59:39.120619Z
+13
+hjf1223
+
+FriendManager.cs
+file
+
+
+
+
+2008-03-16T11:56:00.000000Z
+f851d07f95b1ba4c5d3d5f95eb5eb89c
+2008-03-16T08:59:39.120619Z
+13
+hjf1223
+
+QQGlobal.cs
+file
+
+
+
+
+2008-03-16T11:56:00.000000Z
+65ef14dc316bd025779c6531d5612fb8
+2008-03-16T08:59:39.120619Z
+13
+hjf1223
+
+LoginManager.cs
+file
+
+
+
+
+2008-03-16T11:56:00.000000Z
+f3046a0069248dd2a7f72117a87ee8e5
+2008-03-16T08:59:39.120619Z
+13
+hjf1223
+
+PrivateManager.cs
+file
+
+
+
+
+2008-03-16T11:56:00.000000Z
+e2ada890c779c26cfdc816aeb21de0c2
+2008-03-16T08:59:39.120619Z
+13
+hjf1223
+

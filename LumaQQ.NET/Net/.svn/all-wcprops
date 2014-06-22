@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/LumaQQ_NET/!svn/ver/13/trunk/src/LumaQQ.NET/Net
+END
+ConnectionPolicy.cs
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/LumaQQ_NET/!svn/ver/13/trunk/src/LumaQQ.NET/Net/ConnectionPolicy.cs
+END
+IConnectionPool.cs
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/LumaQQ_NET/!svn/ver/13/trunk/src/LumaQQ.NET/Net/IConnectionPool.cs
+END
+QQPort.cs
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/LumaQQ_NET/!svn/ver/13/trunk/src/LumaQQ.NET/Net/QQPort.cs
+END
+IConnection.cs
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/LumaQQ_NET/!svn/ver/13/trunk/src/LumaQQ.NET/Net/IConnection.cs
+END

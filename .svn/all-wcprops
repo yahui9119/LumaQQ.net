@@ -1,0 +1,65 @@
+K 25
+svn:wc:ra_dav:version-url
+V 37
+/svn/LumaQQ_NET/!svn/ver/15/trunk/src
+END
+LumaQQ.NET.snk
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/LumaQQ_NET/!svn/ver/8/trunk/src/LumaQQ.NET.snk
+END
+UpdateAssemblies.bat
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/LumaQQ_NET/!svn/ver/8/trunk/src/UpdateAssemblies.bat
+END
+LumaQQ.NET.sln
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/LumaQQ_NET/!svn/ver/8/trunk/src/LumaQQ.NET.sln
+END
+ClearBuildingObjects.bat
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/LumaQQ_NET/!svn/ver/8/trunk/src/ClearBuildingObjects.bat
+END
+version.txt
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/LumaQQ_NET/!svn/ver/13/trunk/src/version.txt
+END
+Build.bat
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/LumaQQ_NET/!svn/ver/8/trunk/src/Build.bat
+END
+LumaQQ.NET.vsmdi
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/LumaQQ_NET/!svn/ver/8/trunk/src/LumaQQ.NET.vsmdi
+END
+LocalTestRun.testrunconfig
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/LumaQQ_NET/!svn/ver/8/trunk/src/LocalTestRun.testrunconfig
+END
+LumaQQ.NET.suo
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/LumaQQ_NET/!svn/ver/15/trunk/src/LumaQQ.NET.suo
+END
+update_version_prefix.vbs
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/LumaQQ_NET/!svn/ver/8/trunk/src/update_version_prefix.vbs
+END

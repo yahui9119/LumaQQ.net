@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/LumaQQ_NET/!svn/ver/13/trunk/src/LumaQQ.NET/Utils
+END
+ByteBuffer.cs
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/LumaQQ_NET/!svn/ver/8/trunk/src/LumaQQ.NET/Utils/ByteBuffer.cs
+END
+Util.cs
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/LumaQQ_NET/!svn/ver/13/trunk/src/LumaQQ.NET/Utils/Util.cs
+END
+DesignByContract.cs
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/LumaQQ_NET/!svn/ver/8/trunk/src/LumaQQ.NET/Utils/DesignByContract.cs
+END
+Crypter.cs
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/LumaQQ_NET/!svn/ver/13/trunk/src/LumaQQ.NET/Utils/Crypter.cs
+END
